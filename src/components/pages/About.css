@@ -1,0 +1,13 @@
+.about {
+    color: rgb(34, 33, 63);
+    font-style: italic;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 55px;
+}
+
+#aboutInfo {
+    font-size: 25px;
+    font-style: italic;
+    font-family: cursive
+    ;
+}
